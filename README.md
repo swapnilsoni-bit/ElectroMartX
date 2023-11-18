@@ -1,4 +1,4 @@
-# ElectroMart
+# ElectroMart:- © Designed by Swapnil Soni(206320016)
 
 Welcome to the E-Commerce Website for Electronics Components project! This project is a fully functional and responsive e-commerce website designed specifically for purchasing electronic components. Whether you are a hobbyist, student, or professional engineer, this platform provides a user-friendly interface for browsing, searching, and purchasing a wide range of electronic components.
 
